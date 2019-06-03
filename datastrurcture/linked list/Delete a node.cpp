@@ -57,7 +57,7 @@ void free_singly_linked_list(SinglyLinkedListNode* node) {
     }
 }
 
-// Complete the deleteNode function below.
+// Complete the deleteNode function.
 
 /*
  * For your reference:
