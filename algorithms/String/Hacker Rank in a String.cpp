@@ -15,7 +15,6 @@ string hackerrankInString(string s) {
         if(j == str.length())
         return "YES";
     }
-    cout<<j;
     return "NO";
 }
 
